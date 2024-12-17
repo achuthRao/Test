@@ -1,0 +1,4 @@
+1.Variables-Variables are containers that store values
+2.Data Types
+3.Operators
+4.Conditionals
